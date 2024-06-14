@@ -35,7 +35,7 @@ Answer the following questions based on your understanding of software project m
    - Describe the significance of communication management in software project management. What are some effective communication strategies and tools?
 
 10. Project Closure:
-    - What are the steps involved in the closure of a software project? Why is the project closure phase important, and what activities are typically performed during this phase?
+    - Why is the project closure phase important, and what activities are typiWhat are the steps involved in the closure of a software project? cally performed during this phase?
 
 Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
