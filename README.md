@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/KfkyH0Wl)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15180716&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-7
 Assignment: Software Project Management
 Instructions:
@@ -33,7 +35,7 @@ Answer the following questions based on your understanding of software project m
    - Describe the significance of communication management in software project management. What are some effective communication strategies and tools?
 
 10. Project Closure:
-    - What are the steps involved in the closure of a software project? Why is the project closure phase important, and what activities are typically performed during this phase?
+    - Why is the project closure phase important, and what activities are typiWhat are the steps involved in the closure of a software project? cally performed during this phase?
 
 Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
